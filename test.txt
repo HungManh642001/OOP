@@ -1,0 +1,21 @@
+1. Local repository
+
+git config
+git config --global user.name = ""
+git config --global user.email = ""
+
+- Tạo một thư mục project
+- Tạo 1 file test.txt
+git init
+git status
+git add "name file"
+git add .
+
+git commit -m"commit to repository"
+
+Lệnh viết tắt của add và commit
+git commit -a -m"commit to repository"
+
+git log // xem thời điểm commit
+
+2. Remote repository
